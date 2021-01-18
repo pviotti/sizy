@@ -15,7 +15,7 @@
 
   <ItemGroup>
     <PackageReference Include="BenchmarkDotNet" Version="0.12.1" />
-    <PackageReference Include="FsUnit.xUnit" Version="4.0.2" />
+    <PackageReference Include="FsUnit.xUnit" Version="4.0.4" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.8.0" />
     <PackageReference Include="System.IO.Abstractions" Version="13.2.1" />
     <PackageReference Include="System.IO.Abstractions.TestingHelpers" Version="13.2.1" />
